@@ -92,7 +92,7 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 Catppuccin is available for various apps and in different formats. Here is a list of them:
 
 #### IDEs/DEs
-
+-	[Emacs](https://github.com/catppuccin/emacs)
 -   [NeoVim](https://github.com/catppuccin/nvim)
 -   [VSCode](https://github.com/catppuccin/vscode)
 -   [Sublime Text](https://github.com/catppuccin/sublime-text) (WIP)
